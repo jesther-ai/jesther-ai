@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jesther from Philippines
 #### Future iOS Developer
-I do content on Design and Development. I really enjoy learning languages and frameworks like React, React Native, Flutter, as well as work in WordPress.
+I do content on Design and Development. I really enjoy learning languages and frameworks like Flutter, as well as work in WordPress.
 Currently Learning iOS Development (natively)
 
 Skills: SWIFT / JS / Flutter / JS / HTML / CSS / PHP
