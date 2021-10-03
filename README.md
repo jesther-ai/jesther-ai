@@ -20,6 +20,6 @@ Skills: SWIFT / JS / Flutter / JS / HTML / CSS / PHP
 
 ![GitHub metrics](https://metrics.lecoq.io/jesther-ai)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jesther-ai)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jesther-ai)   -->
 
 ![Profile views](https://gpvc.arturio.dev/jesther-ai)  
