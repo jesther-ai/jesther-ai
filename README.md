@@ -35,6 +35,9 @@ while I focus on architecture and product decisions.
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/oh-jobs-ph/id1448335544)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.WebOutsourcingGatewayInc.ohjobsph)
 
+**U60 Pro** — Dashboard & remote for U60 Pro
+*Coming Soon*
+
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jesther-ai)
